@@ -1,0 +1,9 @@
+# ===========================================================
+# Dependências Python do projeto
+# Usado pelo Dockerfile (Opção B)
+# ===========================================================
+
+# Adicione as dependências do seu projeto abaixo:
+# requests
+# pandas
+# psycopg2-binary
